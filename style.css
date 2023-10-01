@@ -1,0 +1,51 @@
+h2 {
+    border-bottom: 2px solid #cccccc;
+    padding-bottom: 12px;
+  }
+  
+.site-footer {
+    min-width: 550px;
+    background-color: #772886;
+    color: #ffffff;
+  } 
+
+  .site-footer p {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 20px;
+  }
+  .advantages {
+    width: 510px;
+    margin: 0 auto 40px;
+    padding: 0 20px;
+  }
+  
+  .advantages-list {
+    padding: 0;
+    list-style: none;  
+  }
+  .advantages-item {
+    margin-bottom: 15px;
+    padding-left: 20px;
+    border-left: 20px solid #c685c9;
+    color: #b181c4;
+  }
+  .container {
+    width: 510px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .site-header {
+    min-width: 550px;
+    height: 186px;
+    margin-bottom: 70px;
+    padding-top: 30px;
+    background: #847462 no-repeat center url("img-cite/baner.jpg");
+    background-size: cover;
+    color: #ffffff;
+  }
+  
+  
+  
+  
